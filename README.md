@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am looking for work in Beijing, please contact me if you are interested: wujunwei928@qq.com  
+
+我正在寻找北京地区工作机会，有意请联系我：wujunwei928@qq.com  
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wujunwei928)](https://github.com/anuraghazra/github-readme-stats)
