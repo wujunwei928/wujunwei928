@@ -19,4 +19,7 @@ I am looking for work in Beijing, please contact me if you are interested: wujun
 
 我正在寻找北京地区工作机会，有意请联系我：wujunwei928@qq.com  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wujunwei928&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wujunwei928&show_icons=true&theme=dracula&hide=contribs&line_height=24.0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wujunwei928&theme=dracula&layout=compact&card_width=360&hide=lua,php,html)](https://github.com/anuraghazra/github-readme-stats)
+
+
